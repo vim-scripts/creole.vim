@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1909
+
+creole.vim is a vim syntax file for the http://www.wikicreole.org markup standard. 
+
+It is based on vimscript#725 from Andreas Kneib.
+
+New versions can be found at http://www.peter-hoffmann.com/code/vim/
